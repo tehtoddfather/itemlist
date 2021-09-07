@@ -144,6 +144,12 @@
     "version": "1.4.0.0"
   },
   {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -498,6 +504,12 @@
     "version": null
   },
   {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Aelanna",
     "name": "Eccentric Tech - Angel Apparel",
     "steamId": null,
@@ -511,9 +523,27 @@
   },
   {
     "author": "Aelanna",
+    "name": "Eccentric Tech - Advanced Shields",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Foxy's Armory 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
     "name": "Eccentric Extras - Angel Hairs",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
   },
   {
     "author": "Atlas and  aRandomKiwi",
