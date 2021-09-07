@@ -8161,12 +8161,6 @@
 		"defname": "AnimalistSlab_Medium"
 	},
 	{
-		"abr": "animalsbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookAnimals"
-	},
-	{
 		"abr": "antlers",
 		"price": 833,
 		"category": "Inert relics",
@@ -8183,12 +8177,6 @@
 		"price": 833,
 		"category": "Inert relics",
 		"defname": "RelicInertArk"
-	},
-	{
-		"abr": "artbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookArt"
 	},
 	{
 		"abr": "authoritycap",
@@ -8297,12 +8285,6 @@
 		"price": 74,
 		"category": "Headgear",
 		"defname": "Apparel_Blindfold"
-	},
-	{
-		"abr": "blueprint",
-		"price": 2667,
-		"category": "Books",
-		"defname": "VBE_Blueprint"
 	},
 	{
 		"abr": "bone",
@@ -8497,24 +8479,6 @@
 		"defname": "VIEHAR_Apparel_CommisarHat"
 	},
 	{
-		"abr": "constructionbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookConstruction"
-	},
-	{
-		"abr": "cookingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookCooking"
-	},
-	{
-		"abr": "craftingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookCrafting"
-	},
-	{
 		"abr": "cube",
 		"price": 833,
 		"category": "Inert relics",
@@ -8701,12 +8665,6 @@
 		"defname": "GibbetCage"
 	},
 	{
-		"abr": "growingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookGrowing"
-	},
-	{
 		"abr": "handheldgatlinggun",
 		"price": 1650,
 		"category": "Ranged weapons",
@@ -8821,12 +8779,6 @@
 		"defname": "VAECaves_InsectoidHulk"
 	},
 	{
-		"abr": "intellectualbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookIntellectual"
-	},
-	{
 		"abr": "irrigationsprinkler",
 		"price": 102,
 		"category": "Hygiene",
@@ -8929,12 +8881,6 @@
 		"defname": "Loudspeaker"
 	},
 	{
-		"abr": "map",
-		"price": 1333,
-		"category": "Books",
-		"defname": "VBE_Map"
-	},
-	{
 		"abr": "mechanoidhead",
 		"price": 833,
 		"category": "Inert relics",
@@ -8953,28 +8899,10 @@
 		"defname": "VAEA_Apparel_MedicBag"
 	},
 	{
-		"abr": "medicalbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookMedical"
-	},
-	{
-		"abr": "meleebook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookMelee"
-	},
-	{
 		"abr": "militarycap",
 		"price": 109,
 		"category": "Headgear",
 		"defname": "VIEHAR_Apparel_MilitaryCap"
-	},
-	{
-		"abr": "miningbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookMining"
 	},
 	{
 		"abr": "mini-turretpack",
@@ -9011,12 +8939,6 @@
 		"price": 408,
 		"category": "Misc",
 		"defname": "NeuralSupercharger"
-	},
-	{
-		"abr": "newspaper",
-		"price": 33,
-		"category": "Books",
-		"defname": "VBE_Newspaper"
 	},
 	{
 		"abr": "non-lethalpistol",
@@ -9199,12 +9121,6 @@
 		"defname": "VWE_MeleeWeapon_Shiv"
 	},
 	{
-		"abr": "shootingbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookShooting"
-	},
-	{
 		"abr": "shower",
 		"price": 90,
 		"category": "Hygiene",
@@ -9311,12 +9227,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "VFEM_SmokedMeat"
-	},
-	{
-		"abr": "socialbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VBE_BookSocial"
 	},
 	{
 		"abr": "spikecorefloor-star(broad)",
@@ -9475,12 +9385,6 @@
 		"defname": "VWE_MeleeWeapon_TribalAxe"
 	},
 	{
-		"abr": "typewritertable",
-		"price": 342,
-		"category": "Production",
-		"defname": "VBE_TypewritersTable"
-	},
-	{
 		"abr": "vegetarianfinemeal",
 		"price": 33,
 		"category": "Meals",
@@ -9527,12 +9431,6 @@
 		"price": 126,
 		"category": "Headgear",
 		"defname": "VIEHAR_Apparel_WideHat"
-	},
-	{
-		"abr": "writerstable",
-		"price": 252,
-		"category": "Production",
-		"defname": "VBE_WritersTable"
 	},
 	{
 		"abr": "wyrm",
@@ -9593,12 +9491,6 @@
 		"price": 1333,
 		"category": "Ranged weapons",
 		"defname": "Mech40MMCannon"
-	},
-	{
-		"abr": "acgl3grenadelauncher",
-		"price": -10,
-		"category": "Security",
-		"defname": "Eccentric_Turret_M3ACGL"
 	},
 	{
 		"abr": "advandroidassemblykit",
@@ -9901,18 +9793,6 @@
 		"defname": "EccentricTailCat"
 	},
 	{
-		"abr": "caw5hedp",
-		"price": 1992,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_M5CAW"
-	},
-	{
-		"abr": "cgl1grenadelauncher",
-		"price": 3700,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_M1CGL"
-	},
-	{
 		"abr": "charismaimplant",
 		"price": 1667,
 		"category": "Android",
@@ -10025,30 +9905,6 @@
 		"price": 9167,
 		"category": "Android",
 		"defname": "CyberReplacementLeg"
-	},
-	{
-		"abr": "e15chargerifle",
-		"price": 1983,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_E15CR"
-	},
-	{
-		"abr": "e16precisionchargerifle",
-		"price": 2883,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_E16PR"
-	},
-	{
-		"abr": "e18designatedmarksmanrifle",
-		"price": 2808,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_E18DMR"
-	},
-	{
-		"abr": "e9cchargecarbine",
-		"price": 2100,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_E9C"
 	},
 	{
 		"abr": "engineeringimplant",
@@ -10207,12 +10063,6 @@
 		"defname": "AndroidDog"
 	},
 	{
-		"abr": "l20cchargelmg",
-		"price": 3083,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_L20C"
-	},
-	{
 		"abr": "curtain(tribal)(1x1)",
 		"price": 88,
 		"category": "Buildings",
@@ -10279,12 +10129,6 @@
 		"defname": "Meat_HighGravWorlderRace"
 	},
 	{
-		"abr": "l32machinegun",
-		"price": 3058,
-		"category": "Security",
-		"defname": "Eccentric_Turret_L32MG"
-	},
-	{
 		"abr": "labradordogear",
 		"price": 525,
 		"category": "Bionic",
@@ -10313,12 +10157,6 @@
 		"price": 2000,
 		"category": "Animal",
 		"defname": "AndroidMuff"
-	},
-	{
-		"abr": "m3rosethorn",
-		"price": 450,
-		"category": "Melee weapons",
-		"defname": "Eccentric_Rosethorn"
 	},
 	{
 		"abr": "m7mechanisedinfantry",
@@ -10537,18 +10375,6 @@
 		"defname": "Meat_OrcRace"
 	},
 	{
-		"abr": "p12chargepdw",
-		"price": 1158,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_P12PDW"
-	},
-	{
-		"abr": "p17sentrygun",
-		"price": 2167,
-		"category": "Security",
-		"defname": "Eccentric_Turret_P17SG"
-	},
-	{
 		"abr": "pallet",
 		"price": 220,
 		"category": "Furniture",
@@ -10625,12 +10451,6 @@
 		"price": 250,
 		"category": "Android",
 		"defname": "ATPP_RXChip"
-	},
-	{
-		"abr": "s8chargepistol",
-		"price": 942,
-		"category": "Ranged weapons",
-		"defname": "Eccentric_Gun_S8P"
 	},
 	{
 		"abr": "safe",
@@ -10715,6 +10535,102 @@
 		"price": 292,
 		"category": "Mortar shells",
 		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "combathalohelmet",
+		"price": 5000,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombatHelmet"
+	},
+	{
+		"abr": "combathalowithglasses",
+		"price": 4167,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombatGlasses"
+	},
+	{
+		"abr": "diamond",
+		"price": 12,
+		"category": "Raw resources",
+		"defname": "Diamond"
+	},
+	{
+		"abr": "goldbracelet",
+		"price": 417,
+		"category": "Apparel",
+		"defname": "Jewelry_Bracelet"
+	},
+	{
+		"abr": "goldearring",
+		"price": 267,
+		"category": "Apparel",
+		"defname": "Jewelry_Earring"
+	},
+	{
+		"abr": "goldeltexnecklace",
+		"price": 750,
+		"category": "Apparel",
+		"defname": "Jewelry_PsychicNecklace"
+	},
+	{
+		"abr": "goldnecklace",
+		"price": 600,
+		"category": "Apparel",
+		"defname": "Jewelry_Necklace"
+	},
+	{
+		"abr": "goldring",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "Jewelry_Ring"
+	},
+	{
+		"abr": "lasersculptingtable",
+		"price": 850,
+		"category": "Production",
+		"defname": "LaserTableSculpting"
+	},
+	{
+		"abr": "ruby",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Ruby"
+	},
+	{
+		"abr": "sapphire",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Sapphire"
+	},
+	{
+		"abr": "silverbracelet",
+		"price": 417,
+		"category": "Apparel",
+		"defname": "Jewelry_Bracelet_Silver"
+	},
+	{
+		"abr": "silverearring",
+		"price": 267,
+		"category": "Apparel",
+		"defname": "Jewelry_Earring_Silver"
+	},
+	{
+		"abr": "silvereltexnecklace",
+		"price": 750,
+		"category": "Apparel",
+		"defname": "Jewelry_PsychicNecklace_Silver"
+	},
+	{
+		"abr": "silvernecklace",
+		"price": 600,
+		"category": "Apparel",
+		"defname": "Jewelry_Necklace_Silver"
+	},
+	{
+		"abr": "silverring",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "Jewelry_Ring_Silver"
 	},
 	{
 		"abr": "t1android",
@@ -10877,7 +10793,7 @@
 		"price": 2667,
 		"category": "Android",
 		"defname": "AnimalMindImplant"
-	},
+	}
 	],
-	"total": 1813
+	"total": 1799
 }
