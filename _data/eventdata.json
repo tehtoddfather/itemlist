@@ -8,6 +8,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
+  {
   "tornados": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
