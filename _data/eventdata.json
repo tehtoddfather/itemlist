@@ -1,5 +1,4 @@
 [
-  {
   "tornado": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -960,5 +959,4 @@
     "LocalCooldown": 0,
     "Mod": "Unknown"
   }
-}
-  ]
+]
