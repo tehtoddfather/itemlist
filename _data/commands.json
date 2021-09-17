@@ -8,7 +8,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "Twitch Toolkit"
+      "mod": "TTK"
     },
     "description": "Updates the current list of active viewers.",
     "name": "Refresh viewers",
