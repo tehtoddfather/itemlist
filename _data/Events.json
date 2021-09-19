@@ -1,0 +1,2166 @@
+{
+  "type": "Events",
+  "data": [
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "AeorofleetMigration",
+      "enabled": true,
+      "name": "aeorofleetmigration",
+      "price": 500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "AAAsteroid",
+      "enabled": true,
+      "name": "alphaasteroid",
+      "price": 1000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Alphabeavers",
+      "enabled": true,
+      "name": "alphabeavers",
+      "price": 600
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "AmbrosiaSprout",
+      "enabled": true,
+      "name": "ambrosiasprout",
+      "price": 150
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "AnimaliskEnters",
+      "enabled": true,
+      "name": "animaliskwanderin",
+      "price": 700
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEAnimalPodCrash",
+      "enabled": true,
+      "name": "animalpodcrash",
+      "price": 350
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "AnimalTame",
+      "enabled": true,
+      "name": "animaltame",
+      "price": 150
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Aurora",
+      "enabled": true,
+      "name": "aurora",
+      "price": 200
+    },
+    {
+      "data": {
+        "EventType": "Item",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 6,
+      "maxWager": 0,
+      "eventType": "Item",
+      "defName": "Backpack",
+      "enabled": true,
+      "name": "backpack",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 4,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEBattleAnimalsWanderIn",
+      "enabled": true,
+      "name": "battleanimals",
+      "price": 1000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Blight",
+      "enabled": true,
+      "name": "blight",
+      "price": 700
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "BumbledronesWandersIn",
+      "enabled": true,
+      "name": "bumbledroneswanderin",
+      "price": 500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "CactipineDropPod",
+      "enabled": true,
+      "name": "cactipinedroppod",
+      "price": 1000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEECaravanAnimalsWanderIn",
+      "enabled": true,
+      "name": "caravananimals",
+      "price": 5000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEECargopodsapparel",
+      "enabled": true,
+      "name": "cargopodsapparel",
+      "price": 4000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEECargopodsweapons",
+      "enabled": true,
+      "name": "cargopodsweapons",
+      "price": 4000
+    },
+    {
+      "data": {
+        "EventType": "Trait",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 6,
+      "maxWager": 0,
+      "eventType": "Trait",
+      "defName": "ClearTraits",
+      "enabled": true,
+      "name": "cleartraits",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ClearWeather",
+      "enabled": true,
+      "name": "clearweather",
+      "price": 400
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ColdSnap",
+      "enabled": true,
+      "name": "coldsnap",
+      "price": 800
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Good",
+      "eventCap": 4,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEECropSprout",
+      "enabled": true,
+      "name": "cropsprout",
+      "price": 600
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "SpecificDisease",
+      "enabled": true,
+      "name": "disease",
+      "price": 1000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "DropRaid",
+      "enabled": true,
+      "name": "dropraid",
+      "price": 1500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 4,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEDrought",
+      "enabled": true,
+      "name": "drought",
+      "price": 1000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "DryThunderStorm",
+      "enabled": true,
+      "name": "drythunderstorm",
+      "price": 450
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEEarthquake",
+      "enabled": true,
+      "name": "earthquake",
+      "price": 600
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Eclipse",
+      "enabled": true,
+      "name": "eclipse",
+      "price": 450
+    },
+    {
+      "data": {
+        "EventType": "Item",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 200,
+      "maxWager": 0,
+      "eventType": "Item",
+      "defName": "EquipWeapon",
+      "enabled": true,
+      "name": "equip",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "FarmAnimalsWanderIn",
+      "enabled": true,
+      "name": "farmanimals",
+      "price": 400
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Flashstorm",
+      "enabled": true,
+      "name": "flashstorm",
+      "price": 400
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Fog",
+      "enabled": true,
+      "name": "fog",
+      "price": 300
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "FoggyRain",
+      "enabled": true,
+      "name": "foggyrain",
+      "price": 300
+    },
+    {
+      "data": {
+        "EventType": "Variable",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Variable",
+      "defName": "FullHeal",
+      "enabled": true,
+      "name": "fullheal",
+      "price": 2167
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "FungalHuskWandersIn",
+      "enabled": true,
+      "name": "fungalhuskwandersin",
+      "price": 600
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "GallatrossWandersIn",
+      "enabled": true,
+      "name": "gallatrosswanderin",
+      "price": 800
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 6,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ChangeGender",
+      "enabled": true,
+      "name": "genderswap",
+      "price": 100
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Doom",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEGlobalWarming",
+      "enabled": true,
+      "name": "globalwarming",
+      "price": 15000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEHailStorm",
+      "enabled": true,
+      "name": "hailstorm",
+      "price": 800
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "HealAll",
+      "enabled": true,
+      "name": "healall",
+      "price": 17336
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "HealRandomPawn",
+      "enabled": true,
+      "name": "healanypawn",
+      "price": 2000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "HealMe",
+      "enabled": true,
+      "name": "healme",
+      "price": 2167
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "HeatWave",
+      "enabled": true,
+      "name": "heatwave",
+      "price": 750
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "HerdMigration",
+      "enabled": true,
+      "name": "herdmigration",
+      "price": 200
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "HodlBotVote",
+      "enabled": true,
+      "name": "hodlbotvote",
+      "price": 600
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Doom",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEIceAge",
+      "enabled": true,
+      "name": "iceage",
+      "price": 15000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "Infestation",
+      "enabled": false,
+      "name": "infestation",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Item",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 20,
+      "maxWager": 0,
+      "eventType": "Item",
+      "defName": "Item",
+      "enabled": true,
+      "name": "item",
+      "price": 0
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "LevelPawn",
+      "enabled": true,
+      "name": "levelskill",
+      "price": 1500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Doom",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEELongNight",
+      "enabled": true,
+      "name": "longnight",
+      "price": 25000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "MadAnimal",
+      "enabled": true,
+      "name": "madanimal",
+      "price": 200
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "ManhunterPack",
+      "enabled": true,
+      "name": "manhunterpack",
+      "price": 1500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 4,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ManInBlack",
+      "enabled": true,
+      "name": "maninblack",
+      "price": 350
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "MechanoidRaid",
+      "enabled": true,
+      "name": "mechanoidraid",
+      "price": 2500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 4,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Meteorite",
+      "enabled": true,
+      "name": "meteor",
+      "price": 150
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "MilitaryAid",
+      "enabled": true,
+      "name": "militaryaid",
+      "price": 700
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "OrbitalTraderArrival",
+      "enabled": true,
+      "name": "orbitaltraderarrival",
+      "price": 350
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Party",
+      "enabled": true,
+      "name": "party",
+      "price": 400
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "AddPassion",
+      "enabled": true,
+      "name": "passion",
+      "price": 7000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 4,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "PassionShuffle",
+      "enabled": true,
+      "name": "passionshuffle",
+      "price": 2000
+    },
+    {
+      "data": {
+        "EventType": "PawnKind",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 8,
+      "maxWager": 0,
+      "eventType": "PawnKind",
+      "defName": "BuyPawn",
+      "enabled": true,
+      "name": "pawn",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "Predators",
+      "enabled": true,
+      "name": "predators",
+      "price": 2500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "BuyPrisoner",
+      "enabled": true,
+      "name": "prisoner",
+      "price": 800
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEPsychicBloom",
+      "enabled": true,
+      "name": "psychicbloom",
+      "price": 10000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "PsychicDrone",
+      "enabled": true,
+      "name": "psychicdrone",
+      "price": 400
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Doom",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEPsychicRain",
+      "enabled": true,
+      "name": "psychicrain",
+      "price": 25000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "PsychicSoothe",
+      "enabled": true,
+      "name": "psychicsoothe",
+      "price": 250
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "Raid",
+      "enabled": true,
+      "name": "raid",
+      "price": 1500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "BlackHiveRaid",
+      "enabled": true,
+      "name": "raidblackhive",
+      "price": 1500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "MechanoidSappers",
+      "enabled": false,
+      "name": "raidmechanoidsappers",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "WeatherRain",
+      "enabled": true,
+      "name": "rain",
+      "price": 350
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "RainyThunderStorm",
+      "enabled": true,
+      "name": "rainythunderstorm",
+      "price": 250
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "RandomAdulthood",
+      "enabled": false,
+      "name": "randomadulthood",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "RandomChildhood",
+      "enabled": false,
+      "name": "randomchildhood",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "RandomDisease",
+      "enabled": true,
+      "name": "randomdisease",
+      "price": 1000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "RandomInspire",
+      "enabled": true,
+      "name": "randominspire",
+      "price": 450
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ThrumboPasses",
+      "enabled": true,
+      "name": "rarethrumbos",
+      "price": 500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "RemovePassion",
+      "enabled": true,
+      "name": "removepassion",
+      "price": 5000
+    },
+    {
+      "data": {
+        "EventType": "Trait",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Trait",
+      "defName": "RemoveTrait",
+      "enabled": true,
+      "name": "removetrait",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Trait",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 6,
+      "maxWager": 0,
+      "eventType": "Trait",
+      "defName": "ReplaceTrait",
+      "enabled": true,
+      "name": "replacetrait",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "RescueMe",
+      "enabled": true,
+      "name": "rescueme",
+      "price": 800
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ResourcePodCrash",
+      "enabled": true,
+      "name": "resourcepodcrash",
+      "price": 300
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ReviveAll",
+      "enabled": true,
+      "name": "reviveall",
+      "price": 22664
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ReviveRandomPawn",
+      "enabled": true,
+      "name": "reviveanypawn",
+      "price": 1200
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ReviveMe",
+      "enabled": true,
+      "name": "reviveme",
+      "price": 2833
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Sanctuary",
+      "enabled": true,
+      "name": "sanctuary",
+      "price": 100000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "SapperRaid",
+      "enabled": true,
+      "name": "sapperraid",
+      "price": 1500
+    },
+    {
+      "data": {
+        "EventType": "Trait",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 6,
+      "maxWager": 0,
+      "eventType": "Trait",
+      "defName": "SetTraits",
+      "enabled": true,
+      "name": "settraits",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ShipChunkDrop",
+      "enabled": true,
+      "name": "shipchunkdrop",
+      "price": 300
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ShipPartPoison",
+      "enabled": true,
+      "name": "shippartpoison",
+      "price": 1900
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ShipPartPsychic",
+      "enabled": true,
+      "name": "shippartpsychic",
+      "price": 2400
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ShortCircuit",
+      "enabled": true,
+      "name": "shortcircuit",
+      "price": 500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 10000,
+      "eventType": "Default",
+      "defName": "SiegeRaid",
+      "enabled": true,
+      "name": "siegeraid",
+      "price": 2500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "IncreaseRandomSkill",
+      "enabled": true,
+      "name": "skillincrease",
+      "price": 200
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Doom",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Smite",
+      "enabled": true,
+      "name": "smite",
+      "price": 2500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "SnowGentle",
+      "enabled": true,
+      "name": "snowgentle",
+      "price": 350
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "SnowHard",
+      "enabled": true,
+      "name": "snowhard",
+      "price": 450
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "SolarFlare",
+      "enabled": true,
+      "name": "solarflare",
+      "price": 500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEESpaceBattle",
+      "enabled": true,
+      "name": "spacebattle",
+      "price": 600
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "StalkingArcticLion",
+      "enabled": false,
+      "name": "stalkingarcticlion",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "FeraliskClutchMother",
+      "enabled": false,
+      "name": "stalkingclutchmother",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "DunealiskClutchMother",
+      "enabled": false,
+      "name": "stalkingduneclutchmother",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "BlizzariskClutchMother",
+      "enabled": false,
+      "name": "stalkingsnowclutchmother",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "SummitCrabEnters",
+      "enabled": true,
+      "name": "SummitCrabRaid",
+      "price": 1500
+    },
+    {
+      "data": {
+        "EventType": "Item",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Item",
+      "defName": "BuySurgery",
+      "enabled": true,
+      "name": "surgery",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Tornado",
+      "enabled": true,
+      "name": "tornado",
+      "price": 5000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Bad",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "Tornados",
+      "enabled": true,
+      "name": "tornados",
+      "price": 7500
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ToryTalkerVote",
+      "enabled": false,
+      "name": "torytalkervote",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Doom",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "ToxicFallout",
+      "enabled": true,
+      "name": "toxicfallout",
+      "price": 10000
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 2,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "TraderCaravanArrival",
+      "enabled": true,
+      "name": "tradercaravan",
+      "price": 275
+    },
+    {
+      "data": {
+        "EventType": "Trait",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Trait",
+      "defName": "AddTrait",
+      "enabled": true,
+      "name": "trait",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "TravelerGroup",
+      "enabled": true,
+      "name": "travelergroup",
+      "price": 80
+    },
+    {
+      "data": {
+        "EventType": "Item",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 6,
+      "maxWager": 0,
+      "eventType": "Item",
+      "defName": "UseItem",
+      "enabled": true,
+      "name": "use",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 69,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VEEMeteoriteShower",
+      "enabled": true,
+      "name": "veemeteoriteshower",
+      "price": 600
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 5,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VisitColony",
+      "enabled": true,
+      "name": "visitcolony",
+      "price": 300
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VisitorGroup",
+      "enabled": true,
+      "name": "visitorgroup",
+      "price": 200
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Doom",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VolcanicWinter",
+      "enabled": true,
+      "name": "volcanicwinter",
+      "price": 3200
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "VomitRain",
+      "enabled": true,
+      "name": "vomitrain",
+      "price": 650
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 1,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "WandererJoins",
+      "enabled": false,
+      "name": "wandererjoins",
+      "price": -10
+    },
+    {
+      "data": {
+        "EventType": "Item",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "ToolkitUtils"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 200,
+      "maxWager": 0,
+      "eventType": "Item",
+      "defName": "WearItem",
+      "enabled": true,
+      "name": "wear",
+      "price": 1
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Twitch Toolkit"
+      },
+      "karmaType": "Good",
+      "eventCap": 3,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "WildManWandersIn",
+      "enabled": true,
+      "name": "wildman",
+      "price": 300
+    },
+    {
+      "data": {
+        "EventType": "Default",
+        "HasGlobalCooldown": false,
+        "HasLocalCooldown": false,
+        "GlobalCooldown": 0,
+        "LocalCooldown": 0,
+        "Mod": "Unknown"
+      },
+      "karmaType": "Neutral",
+      "eventCap": 4,
+      "maxWager": 0,
+      "eventType": "Default",
+      "defName": "WildMenWanderIn",
+      "enabled": true,
+      "name": "wildmen",
+      "price": 600
+    }
+  ],
+  "description": "No description provided"
+}

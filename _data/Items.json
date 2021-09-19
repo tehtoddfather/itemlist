@@ -39,7 +39,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -2145,7 +2145,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -2379,7 +2379,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -2561,7 +2561,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -5291,7 +5291,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -7163,7 +7163,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -7865,7 +7865,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -9633,7 +9633,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -11869,7 +11869,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -12051,7 +12051,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -13985,9 +13985,9 @@
         "KarmaType": null
       },
       "defName": "HeronCurtainTribal",
-      "enabled": true,
+      "enabled": false,
       "name": "curtain(tribal)(1x1)",
-      "price": 88
+      "price": -10
     },
     {
       "data": {
@@ -14011,9 +14011,9 @@
         "KarmaType": null
       },
       "defName": "HeronCurtainTribalDouble",
-      "enabled": true,
+      "enabled": false,
       "name": "curtain(tribal)(2x1)",
-      "price": 177
+      "price": -10
     },
     {
       "data": {
@@ -14037,9 +14037,9 @@
         "KarmaType": null
       },
       "defName": "HeronCurtainTribalTriple",
-      "enabled": true,
+      "enabled": false,
       "name": "curtain(tribal)(3x1)",
-      "price": 265
+      "price": -10
     },
     {
       "data": {
@@ -16081,7 +16081,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -16419,7 +16419,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -19435,7 +19435,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -19747,7 +19747,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -20995,7 +20995,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -21827,7 +21827,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -23075,7 +23075,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -23101,7 +23101,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -23127,7 +23127,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -23179,7 +23179,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -24401,7 +24401,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -27521,7 +27521,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -28249,7 +28249,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -30043,7 +30043,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -30849,7 +30849,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -32773,7 +32773,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -33527,7 +33527,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -33943,7 +33943,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -35191,7 +35191,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -36725,7 +36725,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -37219,7 +37219,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -37323,7 +37323,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -38883,7 +38883,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -40261,7 +40261,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -43095,7 +43095,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -43849,7 +43849,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -45159,9 +45159,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Animals",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(animals)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45185,9 +45185,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Artistic",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(artistic)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45211,9 +45211,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Construction",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(construction)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45237,9 +45237,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Cooking",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(cooking)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45263,9 +45263,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Crafting",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(crafting)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45289,9 +45289,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Intellectual",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(intellectual)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45315,9 +45315,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Medicine",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(medical)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45341,9 +45341,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Melee",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(melee)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45367,9 +45367,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Mining",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(mining)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45393,9 +45393,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Plants",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(plants)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45419,9 +45419,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Shooting",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(shooting)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -45445,9 +45445,9 @@
         "KarmaType": null
       },
       "defName": "Neurotrainer_Social",
-      "enabled": true,
+      "enabled": false,
       "name": "skilltrainer(social)",
-      "price": 1250
+      "price": -10
     },
     {
       "data": {
@@ -46059,7 +46059,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -47177,7 +47177,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -47359,7 +47359,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -47385,7 +47385,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -48061,7 +48061,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": true,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -48607,7 +48607,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -51701,7 +51701,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -51779,7 +51779,7 @@
         "Weight": 1,
         "ResearchOverrides": null,
         "IsUsable": true,
-        "IsEquippable": false,
+        "IsEquippable": true,
         "IsWearable": false,
         "KarmaTypeForUsing": null,
         "KarmaTypeForWearing": null,
@@ -51997,9 +51997,9 @@
         "KarmaType": null
       },
       "defName": "VCE_UncookedSoupFine",
-      "enabled": true,
+      "enabled": false,
       "name": "uncookedfinesoup",
-      "price": 227
+      "price": -10
     },
     {
       "data": {
@@ -52023,9 +52023,9 @@
         "KarmaType": null
       },
       "defName": "VCE_UncookedStewFine",
-      "enabled": true,
+      "enabled": false,
       "name": "uncookedfinestew",
-      "price": 256
+      "price": -10
     },
     {
       "data": {
@@ -52049,9 +52049,9 @@
         "KarmaType": null
       },
       "defName": "VCE_UncookedSoupGourmet",
-      "enabled": true,
+      "enabled": false,
       "name": "uncookedgourmetsoup",
-      "price": 742
+      "price": -10
     },
     {
       "data": {
@@ -52075,9 +52075,9 @@
         "KarmaType": null
       },
       "defName": "VCE_UncookedSoupLavish",
-      "enabled": true,
+      "enabled": false,
       "name": "uncookedlavishsoup",
-      "price": 458
+      "price": -10
     },
     {
       "data": {
@@ -52101,9 +52101,9 @@
         "KarmaType": null
       },
       "defName": "VCE_UncookedStewLavish",
-      "enabled": true,
+      "enabled": false,
       "name": "uncookedlavishstew",
-      "price": 508
+      "price": -10
     },
     {
       "data": {
@@ -52127,9 +52127,9 @@
         "KarmaType": null
       },
       "defName": "VCE_UncookedSoupSimple",
-      "enabled": true,
+      "enabled": false,
       "name": "uncookedsimplesoup",
-      "price": 161
+      "price": -10
     },
     {
       "data": {
@@ -52153,9 +52153,9 @@
         "KarmaType": null
       },
       "defName": "VCE_UncookedStewSimple",
-      "enabled": true,
+      "enabled": false,
       "name": "uncookedsimplestew",
-      "price": 182
+      "price": -10
     },
     {
       "data": {
