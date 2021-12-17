@@ -467,7 +467,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10,
-      "removePrice": 10,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -497,7 +497,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10,
-      "removePrice": 10,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -527,7 +527,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10,
-      "removePrice": 10,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -2175,1524 +2175,6 @@
       "addPrice": 3500,
       "removePrice": 2000,
       "degree": -2
-    },
-    {
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "workaholic",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "workaholic",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_AbsentMinded",
-      "name": "absent-minded",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
-      "stats": [
-        "x115% research speed"
-      ],
-      "conflicts": [
-        "dunce"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "dunce"
-        ],
-        "stats": [
-          "x115% research speed"
-        ]
-      },
-      "defName": "VTE_Eccentric",
-      "name": "eccentric",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
-      "stats": [
-        "x65% global work speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "x65% global work speed"
-        ]
-      },
-      "defName": "VTE_Perfectionist",
-      "name": "perfectionist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "brawler",
-        "brave",
-        "bloodlust"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "brawler",
-          "brave",
-          "bloodlust"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Coward",
-      "name": "coward",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
-      "stats": [
-        "-20% mental break threshold",
-        "+20% pain shock threshold"
-      ],
-      "conflicts": [
-        "wimp",
-        "coward"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp",
-          "coward"
-        ],
-        "stats": [
-          "-20% mental break threshold",
-          "+20% pain shock threshold"
-        ]
-      },
-      "defName": "VTE_Brave",
-      "name": "brave",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "nimble"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "nimble"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Clumsy",
-      "name": "clumsy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
-      "stats": [
-        "+18.0F Maximum comfortable temperature"
-      ],
-      "conflicts": [
-        "coldinclined"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "coldinclined"
-        ],
-        "stats": [
-          "+18.0F Maximum comfortable temperature"
-        ]
-      },
-      "defName": "VTE_HeatInclined",
-      "name": "heatinclined",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
-      "stats": [
-        "-18.0F Minimum comfortable temperature"
-      ],
-      "conflicts": [
-        "heatinclined"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "heatinclined"
-        ],
-        "stats": [
-          "-18.0F Minimum comfortable temperature"
-        ]
-      },
-      "defName": "VTE_ColdInclined",
-      "name": "coldinclined",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_HeavySleeper",
-      "name": "heavysleeper",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "slob"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "slob"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Neat",
-      "name": "neat",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "neat"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "neat"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Slob",
-      "name": "slob",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "absent-minded",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "absent-minded",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Workaholic",
-      "name": "workaholic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "squeamish"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "squeamish"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_IronStomach",
-      "name": "ironstomach",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "animalhater"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "animalhater"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_AnimalLover",
-      "name": "animallover",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "animallover",
-        "menagerist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "animallover",
-          "menagerist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_AnimalHater",
-      "name": "animalhater",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "kind"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "kind"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Vengeful",
-      "name": "vengeful",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
-      "stats": [
-        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
-      ],
-      "conflicts": [
-        "bodymodder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bodymodder"
-        ],
-        "stats": [
-          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
-        ]
-      },
-      "defName": "VTE_Technophobe",
-      "name": "technophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "anxious"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "anxious"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_FunLoving",
-      "name": "fun-loving",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
-      "stats": [
-        "-50% global learning factor",
-        "-50.00% social impact"
-      ],
-      "conflicts": [
-        "fastlearner",
-        "toosmart",
-        "eccentric",
-        "prodigy"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "fastlearner",
-          "toosmart",
-          "eccentric",
-          "prodigy"
-        ],
-        "stats": [
-          "-50% global learning factor",
-          "-50.00% social impact"
-        ]
-      },
-      "defName": "VTE_Dunce",
-      "name": "dunce",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_MartialArtist",
-      "name": "martialartist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Snob",
-      "name": "snob",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "ironstomach",
-        "desensitized"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "ironstomach",
-          "desensitized"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Squeamish",
-      "name": "squeamish",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
-      "stats": [
-        "Only mental break \"VTE_PanicFreezing\" allowed."
-      ],
-      "conflicts": [
-        "fun-loving"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "fun-loving"
-        ],
-        "stats": [
-          "Only mental break \"VTE_PanicFreezing\" allowed."
-        ]
-      },
-      "defName": "VTE_Anxious",
-      "name": "anxious",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "prude",
-        "asexual",
-        "nudist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "prude",
-          "asexual",
-          "nudist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Insatiable",
-      "name": "insatiable",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "insatiable",
-        "nudist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "insatiable",
-          "nudist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Prude",
-      "name": "prude",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_CouchPotato",
-      "name": "couchpotato",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "dogperson"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "dogperson"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_CatPerson",
-      "name": "catperson",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "catperson"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "catperson"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_DogPerson",
-      "name": "dogperson",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
-      "stats": [
-        "+20% mental break threshold",
-        "x130% research speed"
-      ],
-      "conflicts": [
-        "dunce"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "dunce"
-        ],
-        "stats": [
-          "+20% mental break threshold",
-          "x130% research speed"
-        ]
-      },
-      "defName": "VTE_Prodigy",
-      "name": "prodigy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
-      "stats": [
-        "x120% tame animal chance",
-        "x120% train animal chance"
-      ],
-      "conflicts": [
-        "animalhater"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "animalhater"
-        ],
-        "stats": [
-          "x120% tame animal chance",
-          "x120% train animal chance"
-        ]
-      },
-      "defName": "VTE_Menagerist",
-      "name": "menagerist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_ChildOfSea",
-      "name": "oceanlover",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_ChildOfMountain",
-      "name": "mountainlover",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
-      "stats": [
-        "+20% surgery success chance factor"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20% surgery success chance factor"
-        ]
-      },
-      "defName": "VTE_MadSurgeon",
-      "name": "madsurgeon",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
-      "stats": [
-        "+4 melee"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 melee"
-        ]
-      },
-      "defName": "VTE_DrunkenMaster",
-      "name": "drunkenmaster",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
-      "stats": [
-        "Only mental break \"VTE_Kleptomaniac\" allowed."
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "Only mental break \"VTE_Kleptomaniac\" allowed."
-        ]
-      },
-      "defName": "VTE_Kleptomaniac",
-      "name": "kleptomaniac",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "chemicalfascination",
-        "chemicalinterest",
-        "teetotaler",
-        "lush"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "chemicalfascination",
-          "chemicalinterest",
-          "teetotaler",
-          "lush"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Lush",
-      "name": "lush",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
-      "stats": [
-        "+0.2 foraged food amount"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.2 foraged food amount"
-        ]
-      },
-      "defName": "VTE_Wanderlust",
-      "name": "wanderlust",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
-      "stats": [
-        "x50% global work speed",
-        "x70% move speed"
-      ],
-      "conflicts": [
-        "heavysleeper"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "heavysleeper"
-        ],
-        "stats": [
-          "x50% global work speed",
-          "x70% move speed"
-        ]
-      },
-      "defName": "VTE_Insomniac",
-      "name": "insomniac",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_WorldWeary",
-      "name": "worldweary",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "squeamish"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "squeamish"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_Desensitized",
-      "name": "desensitized",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
-      "stats": [
-        "x70% eating speed"
-      ],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [
-          "x70% eating speed"
-        ]
-      },
-      "defName": "VTE_RefinedPalate",
-      "name": "refinedpalate",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
-      "stats": [
-        "+4 intellectual",
-        "+4 medical",
-        "+20% medical tend quality"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 intellectual",
-          "+4 medical",
-          "+20% medical tend quality"
-        ]
-      },
-      "defName": "VTE_Academian",
-      "name": "academian",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
-      "stats": [
-        "+4 mining",
-        "+4 construction",
-        "+20% mining yield",
-        "+20% construction speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 mining",
-          "+4 construction",
-          "+20% mining yield",
-          "+20% construction speed"
-        ]
-      },
-      "defName": "VTE_Groundbreaker",
-      "name": "groundbreaker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
-      "stats": [
-        "+4 cooking",
-        "+4 artistic",
-        "-25.00% food poison chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 cooking",
-          "+4 artistic",
-          "-25.00% food poison chance"
-        ]
-      },
-      "defName": "VTE_Gastronomist",
-      "name": "gastronomist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
-      "stats": [
-        "+4 animals",
-        "+4 plants",
-        "+20% plant harvest yield",
-        "+20% butchery efficiency"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 animals",
-          "+4 plants",
-          "+20% plant harvest yield",
-          "+20% butchery efficiency"
-        ]
-      },
-      "defName": "VTE_Ecologist",
-      "name": "ecologist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
-      "stats": [
-        "+4 social",
-        "+4 crafting",
-        "+25.00% trade price improvement"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 social",
-          "+4 crafting",
-          "+25.00% trade price improvement"
-        ]
-      },
-      "defName": "VTE_Tycoon",
-      "name": "tycoon",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "thinskinned"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "thinskinned"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_ThickSkinned",
-      "name": "thickskinned",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "thickskinned"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "thickskinned"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VTE_ThinSkinned",
-      "name": "thinskinned",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0
     },
     {
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
@@ -5473,6 +3955,398 @@
       "addPrice": 3500,
       "removePrice": 2000,
       "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has a rebellious attitude, causing them to randomly decide to do a different task on occasion.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "O21_OR_Rebellious",
+      "name": "rebellious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has their wires crossed in just the right way to make it so they snap easier.",
+      "stats": [
+        "+10% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10% mental break threshold"
+        ]
+      },
+      "defName": "O21_OR_Crosswired",
+      "name": "crosswired",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy doesn't learn as well as other droids of their model, they also have problems socially due to this.",
+      "stats": [
+        "-15.00% social impact",
+        "-75% global learning factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-15.00% social impact",
+          "-75% global learning factor"
+        ]
+      },
+      "defName": "O21_OR_Rustbrained",
+      "name": "rustbrained",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a much better threshold for mental breaks, but sometimes go on an insulting spree for no reason and is more likely to fight with others.",
+      "stats": [
+        "+15% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15% mental break threshold"
+        ]
+      },
+      "defName": "O21_OR_Choppy",
+      "name": "choppy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has developed a condition that has been documented rarely in droids where they become tired of being around others, to the point they don't really feel strongly about anything, it makes them break a lot less easily but they also tend to wander about all sad occasionally as a side effect.",
+      "stats": [
+        "+20% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% mental break threshold"
+        ]
+      },
+      "defName": "O21_OR_AP5Syndrome",
+      "name": "ap-5syndrome",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has some screws loose and as a result they'll on a rare occasion lose some ability with a random skill.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "O21_OR_LooseScrews",
+      "name": "loosescrews",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has exceptional reaction times, making them slightly faster than other droids of their model.",
+      "stats": [
+        "+0.40 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.40 move speed"
+        ]
+      },
+      "defName": "O21_OR_Speedy",
+      "name": "speedy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has learned to control their emotional programming to the extent usually only a restraint bolt provides, making them incapable of mental breaks.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "O21_OR_SelfRestrained",
+      "name": "self-restrained",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a glitch that causes them to twitch involuntarily, for most tasks this isn't much of an issue, but if he uses a ranged weapon their accuracy will be lowered.",
+      "stats": [
+        "-5.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-5.0 shooting accuracy"
+        ]
+      },
+      "defName": "O21_OR_Twitchy",
+      "name": "twitchy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is particulalry chatty, if they are capable of social they'll be rather good at it, otherwise it's just more beeps and whirrs...",
+      "stats": [
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[O21] Outer Rim Galaxies",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "O21_OR_Twitterer",
+      "name": "twitterer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 2000,
+      "degree": 0
     }
   ],
   "races": [
@@ -5501,126 +4375,24 @@
     {
       "data": {
         "stats": [
-          "+55.00 Mass",
-          "+10% Flammability",
-          "+$2150 Market value",
-          "+4.10 Move speed",
-          "-18.0F Minimum comfortable temperature",
-          "+63.0F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+100% Psychic sensitivity",
-          "+110% Mining speed"
-        ],
-        "mod": "Forgotten Realms - Minotaur",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.",
-      "defName": "FR_Alien_Minotaur",
-      "enabled": true,
-      "name": "minotaur",
-      "price": 3583
-    },
-    {
-      "data": {
-        "stats": [
-          "+35.00 Mass",
-          "+10% Flammability",
-          "+$1500 Market value",
-          "+4.50 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+81.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Sharp",
-          "+20.0% Armor - Heat",
-          "+110% Global work speed"
-        ],
-        "mod": "Forgotten Realms - Lizardfolk",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Territorial strongly built large humanoid creatures, Crocodillians are profiecient in combat and living in swampy choked enviroments.",
-      "defName": "FR_Alien_Croco",
-      "enabled": true,
-      "name": "crocodillian",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+35.00 Mass",
-          "+10% Flammability",
-          "+$1500 Market value",
-          "+4.80 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+81.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+25.0% Armor - Blunt",
-          "+40.0% Armor - Sharp",
-          "+20.0% Armor - Heat",
-          "+110% Global work speed"
-        ],
-        "mod": "Forgotten Realms - Lizardfolk",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Territorial medium sized humanoid creatures, Squamata are profiecient like their kin Crocodillians in combat and living in swampy choked enviroments.",
-      "defName": "FR_Alien_Squamata",
-      "enabled": true,
-      "name": "squamata",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
           "+60.00 Mass",
-          "+20% Flammability",
-          "+$2000 Market value",
+          "+70% Flammability",
+          "+$1750 Market value",
           "+4.60 Move speed",
-          "+21.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+25% Mental break threshold",
-          "+80% Global learning factor",
-          "+80.00% Negotiation ability",
-          "+80.00% Social impact"
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of humanoids that resemble spiders and are typically found in the Underdark.",
-      "defName": "O21_FR_Chitine",
+      "description": "A blue-skinned, red-eyed, near human sentient species native to the planet Csilla in the Unknown Regions.",
+      "defName": "O21_OR_Chiss",
       "enabled": true,
-      "name": "chitine",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Drow, also known as dark elves, deep elves, night elves, or sometimes \"The Ones Who Went Below\" on the surface, were a dark-skinned sub-race of elves that predominantly lived in the Underdark. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed.",
-      "defName": "O21_FR_DarkElf",
-      "enabled": true,
-      "name": "darkelf",
-      "price": 3333
+      "name": "Chiss",
+      "price": 2917
     },
     {
       "data": {
@@ -5628,93 +4400,436 @@
           "+60.00 Mass",
           "+70% Flammability",
           "+$1750 Market value",
-          "+4.20 Move speed",
+          "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
           "+46.8F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+3 Honor value",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A subspecies of Zabrak, native to the planet Dathomir. The males have a similar appearance to Iridonians with much more vibrant skin tones while the females are practically human apart from their pale white skin. Both cover themselves in tattoos of varying kinds representing their tribal heritage.",
+      "defName": "O21_OR_Dathomirian",
+      "enabled": true,
+      "name": "Dathomirian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "-72.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tall hairy humanoid species native to the planet Kashyyyk, notable hunters and exceptionally strong warriors. Their fur makes them comfortable in extreme temperatures without any protective clothing.",
+      "defName": "O21_OR_Wookiee",
+      "enabled": true,
+      "name": "wookiee",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Quarren.",
+      "defName": "O21_OR_MonCalamari",
+      "enabled": true,
+      "name": "Mon Calamari",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Mon Calamari",
+      "defName": "O21_OR_Quarren",
+      "enabled": true,
+      "name": "Quarren",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A barely sentient amphibious species native to the planet Naboo. Unluckily for the rest of the Galaxy, the ability to speak does not make one intelligent.",
+      "defName": "O21_OR_Gungan",
+      "enabled": true,
+      "name": "gungan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An ancient race that once ruled the Infinite Empire, creating such wonders of the galaxy as the Star Forge.",
+      "defName": "O21_OR_Rakata",
+      "enabled": true,
+      "name": "rakata",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "TODO",
+      "defName": "O21_OR_Jawa",
+      "enabled": true,
+      "name": "Jawa",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "TODO",
+      "defName": "O21_OR_Tusken",
+      "enabled": true,
+      "name": "Tusken",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "HK-47 was a Hunter-Killer assassin droid and Jedi hunter constructed by the Dark Lord of the Sith, Darth Revan, shortly after the end of the Mandalorian Wars in 3960 BBY. In the wake of widespread destruction caused by the Mass Shadow Generator, a superweapon used during the final battle of that conflict, Revan was inspired to seek more subtle methods of defeating his enemies. HK-47 was sent throughout the galaxy on his missions and successfully assassinated countless targets whom Revan had deemed threats to galactic stability and peace. However, HK-47 was badly crippled and captured on a mission in Mandalorian space shortly before Revan himself was captured by the Jedi Order.",
+      "defName": "O21_OR_HK47Droid",
+      "enabled": true,
+      "name": "HK-47 Assassin Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The HK-50 series assassin droid was a HK series assassin/protocol droid model designed by Revan after the Mandalorian Wars. Like their predecessors, these droids possessed incredible linguistic skills and highly sadistic tendencies. The primary function of the HK-50 droids, as they stated it, was to \"facilitate communications and terminate hostilities.\" In accordance with the usual perceptions of HK model assassin droid, the best way to terminate hostilities was to kill everything present. HK-50 units were identical in appearance to HK-47, with the primary exception being that they are \"a rather poor shade of durasteel\" in color instead of HK-47's rusty red.",
+      "defName": "O21_OR_HK50Droid",
+      "enabled": true,
+      "name": "HK-50 Assassin Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The HK-51 series assassin droid was a model of Hunter-Killer series assassin droid that was manufactured by the Czerka Corporation shortly before the end of the Great Galactic War.",
+      "defName": "O21_OR_HK51Droid",
+      "enabled": true,
+      "name": "HK-51 Assassin Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1500 Market value",
+          "+4.80 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A standard model of battle droid used widely as a baseline military model. They are cheap and easy to produce compared to other models so they are often also used as a labour force outside of combat.",
+      "defName": "O21_OR_BattleDroid",
+      "enabled": true,
+      "name": "B1 Battle Droid",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.40 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stealthy model of battle droid capable of much more flexible movement, even imitating humanoids to a degree along with a high melee proficiency which the standard models lack almost entirely. They are much more difficult to produce.",
+      "defName": "O21_OR_CommandoDroid",
+      "enabled": true,
+      "name": "BX Commando Droid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1000 Market value",
+          "+3.00 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An advanced form of battle droid designed with heavy weapons and a shield generator in mind. [Info: They cannot roll to move quickly, this is a planned feature but is low priority currently.]",
+      "defName": "O21_OR_DestroyerDroid",
+      "enabled": true,
+      "name": "destroyer droid",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1000 Market value",
+          "+5.40 Move speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An advanced assassin and bodyguard droid model, proficient in melee combat but not so much with ranged.",
+      "defName": "O21_OR_MagnaGuardDroid",
+      "enabled": true,
+      "name": "MagnaGuard Droid",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$1000 Market value",
+          "+4.00 Move speed",
           "+200% Mining speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.",
-      "defName": "O21_FR_Dwarf",
+      "description": "An advanced battle droid model that is larger, tougher and generally better than the standard Battle Droid. Their advantages come at the cost of significantly more materials.",
+      "defName": "O21_OR_SuperBattleDroid",
       "enabled": true,
-      "name": "dwarf",
-      "price": 2917
+      "name": "B2 Super Battle Droid",
+      "price": 1667
     },
     {
       "data": {
         "stats": [
           "+60.00 Mass",
-          "+20% Flammability",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+3.6F Minimum comfortable temperature",
-          "+57.6F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+20% Mental break threshold",
-          "+80% Global learning factor",
-          "+150% Animal gather speed",
-          "+150% Plant work speed"
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
+          "+$750 Market value",
+          "+4.50 Move speed",
+          "+80% Mining speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of reclusive giant-kin, usually they prefer to avoid contact with other sentient races making them a very rare sight.",
-      "defName": "O21_FR_Firbolg",
+      "description": "A superior model of tactical droid, capable of much more complex calculations than the standard series.",
+      "defName": "O21_OR_SuperTacticalDroid",
       "enabled": true,
-      "name": "firbolg",
-      "price": 3333
+      "name": "Super Tactical Droid",
+      "price": 1250
     },
     {
       "data": {
         "stats": [
           "+60.00 Mass",
-          "+30% Flammability",
+          "+10% Flammability",
+          "-450.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+10000% Immunity gain speed",
+          "+1000% Pain shock threshold",
           "+$2000 Market value",
-          "+4.80 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+110% Psychic sensitivity",
-          "+110% Mining speed"
+          "+4.30 Move speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "The gith were a race of humanoids who had been enslaved by mind flayers for countless generations. Some sages claimed that they were once descended from humans, while others maintained that their original race was in fact unknown. After breaking free from their enslavement, philosophical differences led to a bitter internal conflict, which divided the gith into two main different races at constant odds with each other: the githyanki and the githzerai.",
-      "defName": "O21_FR_Gith",
+      "description": "A droid capable of quick battlefield decisions, they aren't very useful for anything else but their intelligence is highly valued.",
+      "defName": "O21_OR_TacticalDroid",
       "enabled": true,
-      "name": "gith",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+4.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+100% Psychic sensitivity",
-          "+120% Mining speed",
-          "+120% Global work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Goblins were a race of small and numerous goblinoids common throughout Toril, often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly hobgoblins. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.",
-      "defName": "O21_FR_Goblin",
-      "enabled": true,
-      "name": "goblin",
+      "name": "T-Series Tactical Droid",
       "price": 3333
     },
     {
@@ -5723,319 +4838,396 @@
           "+60.00 Mass",
           "+70% Flammability",
           "+$1750 Market value",
-          "+4.00 Move speed",
+          "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
           "+46.8F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+3 Honor value",
-          "+115% Hunger rate multiplier",
-          "+120% Hunting stealth"
+          "+75 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Also known as Hin, or the \"quick folk\" amongst themselves, Halflings are small humanoid creatures, very similar in appearance to Humans, but around half their size.",
-      "defName": "O21_FR_Halfling",
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "O21_OR_CloneTrooper",
       "enabled": true,
-      "name": "halfling",
+      "name": "human",
       "price": 2917
     },
     {
       "data": {
         "stats": [
           "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+4.80 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+115% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Half-orcs were humanoids born of both human and orc ancestry by a multitude of means. Having the combined physical power of their orcish ancestors with the agility of their humans ones, half-orcs were formidable individuals. Though they were often shunned in both human and orcish society for different reasons, half-orcs have proven themselves from time to time as worthy heroes and dangerous villains. Their existence implied an interesting backstory that most would not like to dwell on.",
-      "defName": "O21_FR_HalfOrc",
-      "enabled": true,
-      "name": "half-orc",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+4.50 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+100% Psychic sensitivity",
-          "+120% Mining speed",
-          "+90% Global work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Hobgoblins are a larger, stronger, smarter, and more menacing form of goblinoids than goblins, but not as powerful as bugbears. It is believed they may have created the latter two races.",
-      "defName": "O21_FR_Hobgoblin",
-      "enabled": true,
-      "name": "hobgoblin",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+4.80 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+7% Hunger rate multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Illithids or \"Mind Flayers\" were humanoid in appearance but with an octopus-like, ridged head with four tentacles surrounding a lamprey-like mouth. They were warm-blooded amphibians, whose blood had a silvery-white color.\n\nTheir hands had long, reddish fingers and lacked the index finger, and their feet were two-toed and webbed. Illithid eyes were extremely sensitive to bright light, and they considered it painful, a characteristic that some githyanki scholars attributed to the fact that their alien anatomy focused light in a strange way. Their vision was also more sensitive to the recognition of geometric patterns than that of other humanoids.",
-      "defName": "O21_FR_Illithid",
-      "enabled": true,
-      "name": "illithid",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+50% Flammability",
-          "+$2000 Market value",
+          "+70% Flammability",
+          "+$1750 Market value",
           "+4.60 Move speed",
-          "-36.0F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+40% Hunger rate multiplier"
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Killoren were a relatively new and uncommon race of fey. It was unknown whether they were created by a deity or were spontaneously created by nature itself.",
-      "defName": "O21_FR_Killoren",
+      "description": "A sentient species native to the planet Abednedo in the Colonies region of the Galaxy.",
+      "defName": "O21_OR_Abednedo",
       "enabled": true,
-      "name": "killoren",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+35.00 Mass",
-          "+10% Flammability",
-          "+$1500 Market value",
-          "+4.30 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+20.0% Armor - Blunt",
-          "+35.0% Armor - Sharp",
-          "+15.0% Armor - Heat",
-          "+120% Global work speed",
-          "+120% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Aggressive, xenophobic, yet industrious small humanoid creatures, kobolds are noted for their skill at building traps and preparing ambushes.",
-      "defName": "O21_FR_Kobold",
-      "enabled": true,
-      "name": "kobold",
-      "price": 2500
+      "name": "Abednedo",
+      "price": 2917
     },
     {
       "data": {
         "stats": [
           "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves.",
-      "defName": "O21_FR_MoonElf",
-      "enabled": true,
-      "name": "moonelf",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+4.00 Move speed",
-          "+7.2F Minimum comfortable temperature",
-          "+57.6F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+130% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Orcs were a race of humanoids that had been a threat to the civilized cultures of Toril, particularly Faerûn, for as long as any could remember. This changed somewhat in the years preceding and immediately after the Spellplague, when a horde of mountain orcs under the command of King Obould Many-Arrows unified into a single kingdom, one that was remarkably civilized.",
-      "defName": "O21_FR_Orc",
-      "enabled": true,
-      "name": "orc",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty",
-          "+120% Global learning factor",
-          "+120.00% Negotiation ability",
-          "+120.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.",
-      "defName": "O21_FR_SunElf",
-      "enabled": true,
-      "name": "sunelf",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+5.50 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+40% Hunger rate multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Tabaxi also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.",
-      "defName": "O21_FR_Tabaxi",
-      "enabled": true,
-      "name": "tabaxi",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+20% Flammability",
-          "+$2000 Market value",
+          "+70% Flammability",
+          "+$1750 Market value",
           "+4.60 Move speed",
-          "+21.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+45% Mental break threshold",
-          "+110% Global learning factor",
-          "+115.00% Negotiation ability",
-          "+120.00% Social impact"
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Tieflings were human-based planetouched, native outsiders that were infused with the touch of the fiendish planes, most often through descent from fiends—demons, Yugoloths, devils, evil deities, and others who had bred with humans. Tieflings were known for their cunning and personal allure, which made them excellent deceivers as well as inspiring leaders when prejudices were laid aside.",
-      "defName": "O21_FR_Tiefling",
+      "description": "A sentient humanoid species from the planet Ando, they vary genetically in that some of them have 2 eyes and others have 4 eyes.",
+      "defName": "O21_OR_Aqualish",
       "enabled": true,
-      "name": "tiefling",
-      "price": 3333
+      "name": "Aqualish",
+      "price": 2917
     },
     {
       "data": {
         "stats": [
           "+60.00 Mass",
-          "+30% Flammability",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty"
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Wood elves, also known as copper elves, or Or-tel-quessir were the most populous of the elven races. Wood elves saw themselves as guardians of the Tel-quessir forest homes that were largely abandoned after the Crown Wars and before the Retreat, but unlike most elves they did not view themselves as a people apart from the rest of Faerûn.",
-      "defName": "O21_FR_WoodElf",
+      "description": "A sentient humanoid species native to the planet Bith, to outside species they are hard to tell apart being so visually similar to one another.",
+      "defName": "O21_OR_Bith",
       "enabled": true,
-      "name": "woodelf",
-      "price": 3333
+      "name": "Bith",
+      "price": 2917
     },
     {
       "data": {
         "stats": [
-          "+90.00 Mass",
-          "+30% Flammability",
-          "+$2500 Market value",
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
           "+4.60 Move speed",
-          "-180.0F Minimum comfortable temperature",
-          "+180.0F Maximum comfortable temperature",
-          "+300% Pain shock threshold",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+40.0% Armor - Blunt",
-          "+35.0% Armor - Sharp",
-          "+15.0% Armor - Heat",
-          "+120% Global work speed",
-          "+10000% Immunity gain speed"
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.",
-      "defName": "O21_FR_Warforged",
+      "description": "A species of sentient humanoids from the planet Cerea, they are physically very similar to humans other than their enlarged conical head containing a binary brain.",
+      "defName": "O21_OR_Cerean",
       "enabled": true,
-      "name": "warforged",
-      "price": 4167
+      "name": "Cerean",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+75.6F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient humanoid species from the planet Devaron. They have a strong sexual dimorphism where the females look like they could be an entirely different species, lacking the horns and vivid skin colours of the males, instead having vestigial bumbs where horns would be. Their skin is practically immune to fire, and they can tolerate extremely high temperatures.",
+      "defName": "O21_OR_Devaronian",
+      "enabled": true,
+      "name": "Devaronian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid sentient species native to the planet Duro, they share a distant ancestor with the Neimoidians.",
+      "defName": "O21_OR_Duros",
+      "enabled": true,
+      "name": "Duros",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A horned sentient species of humanoid from the moon Iktotch.",
+      "defName": "O21_OR_Iktotchi",
+      "enabled": true,
+      "name": "Iktotchi",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Iridonians are a race of Zabrak, horned sentient humanoids. They are native to the planet Iridonia.",
+      "defName": "O21_OR_Iridonian",
+      "enabled": true,
+      "name": "Iridonian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient species from the planet Ithor. They have a unique set of twin mouths on the opposite sides of their necks. Their throat structure prevented them speaking Galactic Basic without assisstance from devices that can translate as they speak. Another quirk of their unique throat is that they can expell air violently in a rough direction, causing a concussive wave capable of damaging others.",
+      "defName": "O21_OR_Ithorian",
+      "enabled": true,
+      "name": "Ithorian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A near-human species native to the planet Mirial. They typically have green skin and geometric tattoos on their faces symbolizing personal achievement.",
+      "defName": "O21_OR_Mirialan",
+      "enabled": true,
+      "name": "Mirialan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid species native to the planet of Neimoidia, they share a common ancestor with the Duros species.",
+      "defName": "O21_OR_Neimoidian",
+      "enabled": true,
+      "name": "Neimoidian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid sentient species native to the planet Kintan. There are three subspecies varying mostly in colouring, with small physical differences.",
+      "defName": "O21_OR_Nikto",
+      "enabled": true,
+      "name": "Nikto",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient species of aquatic beings native to the planet Manaan, they are most comfortable underwater but are capable of surviving on land.",
+      "defName": "O21_OR_Selkath",
+      "enabled": true,
+      "name": "Selkath",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of red-skinned humanoids native to the planet Korriban before resettling on Ziost. They have distinct bone spurs and facial tentacles, and are one of few species naturally drawn to the dark side of the Force.",
+      "defName": "O21_OR_Sith",
+      "enabled": true,
+      "name": "Sith",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A sentient humanoid species, distinct for their large montrals head tails and large variety of skin pigmentation. They are native to the planet Shili in the Expansion Region of the Galaxy.",
+      "defName": "O21_OR_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A large bipedal reptilian sentient humanoid species from the planet Trandosha. They were commonly known as great hunters and famous for their ability to regenerate limbs and heal effectively.",
+      "defName": "O21_OR_Trandoshan",
+      "enabled": true,
+      "name": "Trandoshan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A near-human species distinct in their pair of long appendages protruding from their heads called lekku. They are native to the planet Ryloth in the Outer Rim Territories. Females of the species were often exported as slaves around the Galaxy.",
+      "defName": "O21_OR_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
     }
   ]
 }

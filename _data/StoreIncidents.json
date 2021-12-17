@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 5000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 7500,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 10000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -129,6 +129,11 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -301,6 +306,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
@@ -313,6 +323,16 @@
 	{
 		"abr": "reviveme",
 		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -356,6 +376,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "settraits",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -381,6 +406,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
@@ -389,41 +419,6 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "alphaasteroid",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "aeorofleetmigration",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "animaliskwanderin",
-		"price": 700,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "cactipinedroppod",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "gallatrosswanderin",
-		"price": 1400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "bumbledroneswanderin",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fungalhuskwandersin",
-		"price": 600,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "iceage",
@@ -511,5 +506,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 102
+	"total": 101
 }
